@@ -2,6 +2,7 @@
 const firebaseConfig = {
       apiKey: "AIzaSyDbfe7sjbfY3ack_iLAEp84QWoiQ_CYiQY",
       authDomain: "kwitterakshit.firebaseapp.com",
+      databaseURL: "https://kwitterakshit-default-rtdb.firebaseio.com",
       projectId: "kwitterakshit",
       storageBucket: "kwitterakshit.appspot.com",
       messagingSenderId: "41193646220",
